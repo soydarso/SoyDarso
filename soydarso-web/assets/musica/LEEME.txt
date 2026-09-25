@@ -1,0 +1,5 @@
+Pon aquí tus canciones con estos nombres (o cambia las rutas en js/config.js → music.tracks):
+  cancion-01.mp3
+  cancion-02.mp3
+  cancion-03.mp3
+Recomendado: MP3 a 128 kbps (≈1 MB por minuto) para no pasar el límite del repositorio.
