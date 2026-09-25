@@ -1,0 +1,4 @@
+Pon aquí los logos (SVG o PNG con fondo transparente) con los nombres de js/config.js → brandCarousel.logos
+Ej.: gatorade.svg, pg.svg, protex.svg, cerveza-andina.svg ...
+No importa si el logo es a color: con forceWhite: true se pinta de blanco.
+Si un archivo falta, el carrusel muestra el nombre de la marca en texto.
